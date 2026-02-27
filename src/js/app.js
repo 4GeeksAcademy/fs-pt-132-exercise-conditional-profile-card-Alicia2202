@@ -50,7 +50,7 @@ function render(variables = {}) {
             }"><i class="fab fa-twitter"></i></a></li>
             <li><a href="https://github.com/${
               variables.github ? variables.github : "4geeksacademy"
-            }><i class="fab fa-github"></i></a></li>
+            }"><i class="fab fa-github"></i></a></li>
             <li><a href="https://linkedin.com/${
               variables.linkedin ? variables.linkedin : "school/4geeksacademy"
             }"><i class="fab fa-linkedin"></i></a></li>
